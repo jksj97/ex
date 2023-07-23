@@ -22,8 +22,8 @@
     .sec06 > .cont-inner > .title{text-align: center; margin-top: 100px;} 
     .lovePercent-cont{position: relative; width: 100%; margin-top: 64px;}
     .lovePercent-cont > .live-imgs02{width: 100%;}
-    .lovePercent-cont > .live-imgs01 > li:nth-child(1){position: relative; top: -100px; left: 200px;}
-    .lovePercent-cont > .live-imgs01 > li:nth-child(2){display: none; position: relative; top: -150px; left: 100px;}
+    .lovePercent-cont > .live-imgs01 > li:nth-child(1){position: relative; top: -60px; left: 200px;}
+    .lovePercent-cont > .live-imgs01 > li:nth-child(2){position: relative; top: -150px; left: 100px;}
     .lovePercent-cont > .live-imgs01 > li:nth-child(3){position: relative; top: -200px; left: 200px;}
 
     .sec07 > .cont-inner > article,
