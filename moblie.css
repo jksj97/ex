@@ -1,0 +1,34 @@
+@media screen and (max-width: 800px) {
+    .body{padding: 0 16px; overflow: hidden;}
+    .cont{margin-top: 10rem;}
+    .top-vedio > .main-video{width: 99%;}
+    .sec01 > .cont-inner > article > img{width: 100%; height: 100%; left: 0px;}
+
+    .vedio-cont{overflow: hidden; width: 100%; height: auto; margin-top: 32px;}
+    .vedio-cont > video{width: 350%; position: relative; left: -125%;}
+
+    .concept-imgs{width: 100%;display: inline;}
+    .concept-imgs > .box{width: 100%; border-radius: 12px; margin: 4px 0}
+
+    .swipe-cont{width: 100%; margin: auto;}
+    .swipe-cont > article{width: 100%;}
+    .swipe-cont > .swipe-vidoe{ width: 100%; height: auto; }
+    .swipe-cont > .swipe-vidoe > video{position: relative; top: 0px; width: 100%; height: 100%;}
+
+    .mode-cont{width: 100%;gap: 16px;}
+
+    .sec06{width: 100%;}
+    .sec06 > .cont-inner{display: inline;}
+    .sec06 > .cont-inner > .title{text-align: center; margin-top: 100px;} 
+    .lovePercent-cont{position: relative; width: 100%; margin-top: 64px;}
+    .lovePercent-cont > .live-imgs02{width: 100%;}
+    .lovePercent-cont > .live-imgs01 > li:nth-child(1){position: relative; top: -100px; left: 200px;}
+    .lovePercent-cont > .live-imgs01 > li:nth-child(2){position: relative; top: -200px; left: 100px;}
+    .lovePercent-cont > .live-imgs01 > li:nth-child(3){position: relative; top: -200px; left: 200px;}
+
+    .sec07 > .cont-inner > article,
+    .sec08 > .cont-inner > article{width: 100%; margin: 64px auto 0 auto; text-align: center;}
+
+    .sec07 > .cont-inner > article > img,
+    .sec08 > .cont-inner > article > img {width: 100%;}
+}
